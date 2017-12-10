@@ -1,4 +1,4 @@
-git log --oneline --graph --all
+git log --oneline --graph --all --decorate
 
 
 
